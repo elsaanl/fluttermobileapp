@@ -1,6 +1,7 @@
 # news
 
 NEWS APP by elsa.
+library flutter yang dipakai ada di bagian tentang/(about) sebelum ada tulisan developer info.
 ![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/WhatsApp%20Image%202025-11-23%20at%2019.22.06_57e603c2.jpg?raw=true)
 ![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/2.jpg?raw=true)
 ![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/3.jpg?raw=true)
