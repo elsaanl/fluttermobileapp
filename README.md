@@ -1,6 +1,7 @@
 # news
 
-A new Flutter project.
+NEWS APP by elsa.
+![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/WhatsApp%20Image%202025-11-23%20at%2019.22.06_57e603c2.jpg?raw=true)
 
 ## Getting Started
 
