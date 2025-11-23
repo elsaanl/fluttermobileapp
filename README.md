@@ -2,6 +2,14 @@
 
 NEWS APP by elsa.
 ![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/WhatsApp%20Image%202025-11-23%20at%2019.22.06_57e603c2.jpg?raw=true)
+![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/2.jpg?raw=true)
+![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/3.jpg?raw=true)
+![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/4.jpg?raw=true)
+![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/5.jpg?raw=true)
+![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/6.jpg?raw=true)
+![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/7.jpg?raw=true)
+![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/8.jpg?raw=true)
+![alt text](https://github.com/elsaanl/fluttermobileapp/blob/main/9.jpg?raw=true)
 
 ## Getting Started
 
